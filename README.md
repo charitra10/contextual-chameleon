@@ -1,7 +1,7 @@
 # 🦎 Contextual Chameleon
 ### The Forum That Shapeshifts.
 
-**Hackathon Track:** ⚡ AI & Intelligence / 🔧 Migration & Utility
+**Hackathon Track:** ⚡ AI & Intelligence
 
 
 
@@ -22,9 +22,9 @@ It combines the raw data power of a **Headless Backend (Foru.ms)** with the dyna
 
 ### 1. Dynamic Layout Switching (The "Chameleon" Engine)
 The app detects the topic intent and serves a bespoke React component:
-* **👨‍💻 DEV_STACK Mode:** StackOverflow-style layout. Auto-expands code blocks, adds "Copy" buttons, and highlights technical syntax.
-* **⚖️ DEBATE Mode:** Split-screen arena. Separates arguments into "Side A" vs "Side B" for clear comparison.
-* **🎨 SHOWCASE Mode:** Pinterest-style masonry grid. Prioritizes images over text for visual storytelling.
+* **👨‍💻 DEV_STACK Mode**
+* **⚖️ DEBATE Mode**
+* **🎨 SHOWCASE Mode**
 
 
 ### 2. AI "Brain" Classification
